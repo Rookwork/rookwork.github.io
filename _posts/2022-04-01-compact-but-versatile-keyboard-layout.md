@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "If you have a Guest post.."
+title: "Iterating on a compact but versatile keyboard layout"
 comments: true
-description: "If you have a Guest post.."
-keywords: "dummy content"
-author: GuestName
+description: "My fingers hurt, but I needed to type. Time to make a change."
+keywords: "keyboards, process"
 ---
 
-If you think that you're going to have a guest post... take a look on this post sample. Just add `author: GuestName` to the YAML front matter. Then, the **GuestName** will be appear on the next of post date. Oh, the guest name will be automatically uppercase.
+Coming soon!
