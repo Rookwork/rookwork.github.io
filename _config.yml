@@ -61,4 +61,3 @@ exclude:
   - "script"
   - "vendor"
   - "thinkspace.gemspec"
-  - "feed.xml"
