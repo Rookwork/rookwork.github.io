@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi, I'm Robin. You might also know me as John. I used to work in marketing; now I focus on technical copywriting. I specialize in documentation and microcopy for a wide array of topics.
