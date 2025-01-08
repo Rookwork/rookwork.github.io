@@ -1,4 +1,7 @@
-# Joseph is a super minimal content focus theme for Jekyll
+# Rookwork
+This is my Github pages site. Below is the readme for the Jekyll them I'm using, [Joseph](https://jekyllthemes.io/theme/joseph-blog-jekyll-theme). 
+
+## Joseph is a super minimal content focus theme for Jekyll
 
 Joseph is a super minimal content focus theme for Jekyll. This theme was created with a focus on typography and a reading experience and has a light and dark mode for easy reading. This theme is perfect for the personal blog of a programmer, designer, blogger, or any creative person.
 
