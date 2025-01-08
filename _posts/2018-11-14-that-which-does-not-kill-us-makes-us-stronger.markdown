@@ -1,22 +1,17 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
+title:  Hiding the PS5 without losing performance
+description: I like to game, but I don't like the way the PS5 looks. With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
 date:   2018-11-14 15:01:35 +0300
-image:  '/images/02.jpg'
+image:  '/images/hiding-a-ps5/final-product.jpg'
 tags:   [workflow, hobby, study]
 ---
-# Hiding the PS5 without losing performance
 
 I'm a bit of a gamer. Obviously, I spend my time doing a lots of things, but relaxing with a good game is one of my favorite hobbies. I don't have any horse in the race as far as Xbox vs. Playstation goes, but I tend to prefer Playstation simply because it has more exclusive titles I'm interested in. Exclusive titles at all are arbitrary and frankly annoying, but it is what it is. 
 
 When the PS5 was first announced, I hated how it looked. To be fair, I do admire the idea of making a game console an interesting piece of design. Funnily, I think this was Microsoft's intention with the Xbox 360 many years ago, but they have since moved on to big black boxes while Sony dove into the deep end of unique character with the PS5. I think the design of the PS5 could be very appealing to many people, but it's not for me. 
 
 With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
-
-![There's a PS5 in there](/images/hiding-a-ps5/_final-product.jpg)
-
-{{more}}
 
 ## Making the PS5 look better in my living room
 
