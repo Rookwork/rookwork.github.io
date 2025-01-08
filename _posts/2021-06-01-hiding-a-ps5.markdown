@@ -17,7 +17,7 @@ With the carefully tuned balance between performance and heat of modern consoles
 
 I did explore this option a little bit. What if I could make the console look different? This turned out to be fairly tricky around the console's launch, though. Nowadays, there are some pretty decent third-party panel and sticker options that change the silhouette and colors of the PS5, so if I were doing this project today, this might be more viable, but no such luck at the time. 
 
-![The PS5 is big](/images/ps5-big.jpg)
+![The PS5 is big](/images/hiding-ps5/ps5-big.jpg)
 
 I also thought about biting the bullet and just letting the PS5 be visible on an open shelf as-is, but one fundamental issue with the PS5 for me is it's quite large, even larger than than my pervious PS4 Pro, which I already thought was pretty bulky. The PS5 is actually just about the same size as some console-form-factor PC cases, which can be built to be even more performant than a PS5. Food for thought for a future project, perhaps. Anyway, this meant that if the console was visible at all, it would draw attention, and I decided hiding it was the better plan.
 
