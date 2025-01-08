@@ -59,11 +59,7 @@ When I was measuring where to put the holes, I didn't really have any super scie
 
 I felt silly, but mostly, I was glad it was just one side of one hole. For basically guessing where to put the fans, things could have been so much worse. By the time I figured all this out, I was already about 2/3rds of the way done with this line, so I knuckled down and finished the cut, exhaustedly tearing out a messy square of 95% cardboard and 5% wood. 
 
-<<<<<<< Updated upstream
-![One of the square cutouts](/images/hiding-ps5/cutout.jpg)
-=======
 ![One of the square cutouts](/images/cutout.jpg)
->>>>>>> Stashed changes
 
 With the holes cut, installing the fans was a breeze (pun fully intended). I just stuck them in place and plugged them into AC Infinity's basic controller. I tested to make sure things were working, cleaned up the cuts a bit (certainly not that well), and set everything up. I used black fan grilles for the test, but I later switched to white when I knew things were baseline working.
 
