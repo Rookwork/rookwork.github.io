@@ -1,79 +1,123 @@
 ---
 layout: post
-title:  Hiding the PS5 without losing performance
-description: I like to game, but I don't like the way the PS5 looks. With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
-date:   2021-06-01 15:01:35 -0500
-image:  '/images/hiding-ps5/final-product.jpg'
+title:  Designing the EXPress, an all-button arcade controller
+description: I've always liked the concept fighting games, but I struggle with the controls, so I decided to design my very down custom controller.
+date:   2024-04-22 15:01:35 -0500
+image:  '/images/express/EXPress.jpeg'
 tags:   [something I made]
 ---
+I've always liked the concept fighting games. They are an intense 1v1 competition between two people that tests both mechanical skill and decision making. It's like if there was a rule in Chess that you could take another turn before your opponent if you saw them making a sub-optimal move. The gap in skill between a beginner and an expert is extremely wide and extremely clear to see. 
 
-I'm a bit of a gamer. Obviously, I spend my time doing a lots of things, but relaxing with a good game is one of my favorite hobbies. I don't have any horse in the race as far as Xbox vs. Playstation goes, but I tend to prefer Playstation simply because it has more exclusive titles I'm interested in. Exclusive titles at all are arbitrary and frankly annoying, but it is what it is. 
+Yet fighting games also have a passionate community of learners. There is a real sense of honor and camaraderie among fighting game players. It is frowned upon to beat someone once and not offer to play them again. The expectation is to let people try to learn and compete on the most even playing field possible. The issue I've always had with fighting games is inputs. 
 
-When the PS5 was first announced, I hated how it looked. To be fair, I do admire the idea of making a game console an interesting piece of design. Funnily, I think this was Microsoft's intention with the Xbox 360 many years ago, but they have since moved on to big black boxes while Sony dove into the deep end of unique character with the PS5. I think the design of the PS5 could be very appealing to many people, but it's not for me. 
+Fighting games are unique from most other games in that most require motion inputs. For example, a quarter circle move is done by pushing the movement stick down, then to the lower right, then all the way right all very quickly. This is combined with an attack button to do a special move. I find motion inputs painful after more than a bit of practice. 
 
-With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
+![Fighting game inputs are hard](/images/express/fginputs.jpg)
 
-## Making the PS5 look better in my living room
+I thought fighting games just wouldn't really be for me until I discovered "leverless" or "button box" controllers. These controllers are all buttons and replace the traditional movement stick with four independent buttons for the four cardinal directions. I experimented with this a bit and it was a game changer for me. Not only were motion inputs less painful, I could do them more consistently. Sometimes, when trying to roll a joystick quickly, you might not push it enough in one direction for the move to register. With buttons, you know precisely if you hit a direction or not. 
 
-I did explore this option a little bit. What if I could make the console look different? This turned out to be fairly tricky around the console's launch, though. Nowadays, there are some pretty decent third-party panel and sticker options that change the silhouette and colors of the PS5, so if I were doing this project today, this might be more viable, but no such luck at the time. 
+So this was perfect, I had a style of controller I liked, and now I was ready to play. Except there was just one more problem: I didn't like any of the leverless controllers available to buy. 
 
-![The PS5 is big](/images/hiding-ps5/ps5-big.jpg)
+## Concept and prototyping
+Here's what I wanted out of a controller:
+- Compact
+- Easy to decorate
+- Relatively high-quality feeling. I didn't want it feel like a rough 3D print when I rested my hands on it. 
+- Some sort of lighting feature would be a nice bonus.
+- As inexpensive as possible to make
 
-I also thought about biting the bullet and just letting the PS5 be visible on an open shelf as-is, but one fundamental issue with the PS5 for me is it's quite large, even larger than than my pervious PS4 Pro, which I already thought was pretty bulky. The PS5 is actually just about the same size as some console-form-factor PC cases, which can be built to be even more performant than a PS5. Food for thought for a future project, perhaps. Anyway, this meant that if the console was visible at all, it would draw attention, and I decided hiding it was the better plan.
+I decided to design my own controller. It seemed like the perfect level of challenge that wouldn't be too overwhelming but would also teach me several new things. 
 
-## Sacrifice as little performance as possible
+I actually started on this over a year ago. Originally, I wanted to make the body of the controller out of a series of sandwiched acrylic plates. 
 
-So, hiding the PS5 was straightforward enough, but making sure it could still get fresh air and exhaust the hot air was trickier. 
+![Acrylic sheets in paper](/images/express/acrylic-sheets.jpg)
 
-I began googling, "vented tv stand", "media center airflow", "TV stand... with holes?", etc. I found some options (although surprisingly, not as many as I expected), but I was still struggling. [BDi's media centers](https://www.bdiusa.com/products/corridor-8177-modern-tv-stand-media-storage-drawer?finish=natural-walnut) were particularly appealing, until I saw the price. I'm sure their products are very good, and they look great, but roughly $3000 was a tough sell, especially when I lived on a third floor apartment with no elevator at the time, and I would need to cart this massive hard wood piece up the stairs. 
+Early on, I also had the idea of making the "face" buttons (the main actions you press) use Choc switches and the "option" buttons (the extra buttons on a controller) use MX switches. I thought this was a fun idea because there are lots of artisan MX keycaps out there, but not a lot of opportunity to use them. Using them for the option buttons works well because you don't hit them regularly or quickly, so even a strange-feeling artistan keycap wouldn't get in the way very often.
 
-I did find one or two cheaper options in the few hundred dollar range that were kind of similar to BDi's offerings, but they just weren't grabbing me. Their style was either too far off from what I wanted, reviews weren't very good, or the dimensions wouldn't work. 
+Meanwhile, Choc switches have a shorter actuation distance, so they are slightly faster for time-sensitive inputs, which is ideal for the buttons you hit in a match. 
 
-I decided it was time to break out the saw.
+Finally, this combination of switch types was also just not something I had seen done before. It was an interesting challenge I wanted to tackle. So, the very first version of my controller looked like this. 
 
-## The Build
+![The first ever version of the EXPress](/images/express/EXPress-v1-assembled.jpeg)
 
-Unsurprisingly, IKEA is a favorite of mine and my partner's. Their furniture is pretty inexpensive, but has held up mostly quite well for us (except their couches), and it fits our style. We actually already had an IKEA Besta on legs that we were using as our TV stand at the time, so I decided to look no further. 
+The main issue with mixing Choc and MX switches is they have different total heights. So, if they both clip into the same plate, MX switches will extend farther down that Choc switches. Even without really accounting for this, my first version worked. 
 
-Of course, the Besta does not have the vents I would need by default. But another benefit of IKEA is their stuff is very easy to hack apart, and if I messed up, it wouldn't be some huge loss. I came across [AC Infinity](https://acinfinity.com/), a company all about ventilation fans for exactly the kind of project I was taking on. I did briefly think about just doing this myself with some computer fans and a microcontroller. After all, that's basically what their products are. At this point though, I wasn't 100% sure that adding fans would work to adequately cool the PS5, so I didn't really want to add even more prototyping and development time. Down the line, I'd like to come back to an even more DIY approach here, but for the moment, I decided to keep things simple and get to a testable solution as quickly as possible. 
+![I'm practicing a simple anti-air](/images/express/EXPress-v1.gif)
 
-My plan was pretty simple: one intake fan on the bottom and one exhaust fan on the side. I also decided to mirror this on both sides of my Besta to allow for exhaust for our Nintendo Switch or anything else we might want to hide away in the future. I chose this configuration for a couple of reasons:
-- It made the most sense since hot air naturally rises, and exhausting downward would be fighting that for little reason.
-- It mirrored the PS5's built-in exhaust pattern. The PS5 exhausts at kind of a downward angle to the rear, and since I would have it on its side, all the hot air would be pushed perfectly into the exhaust fan I was adding to the cabinet. 
+However, the PCB just sort of angled in and I worried about the long term reliability of the switch connections. 
 
-The main downside of this configuration is dust. Intaking from the floor is pretty much the worst option if I wanted to avoid dust buildup, but I decided that wasn't a dealbreaker. The fan grates do a decent job of stopping dust on their own, and I can always use a dust filter as well. In practice, this really hasn't been as bad as I worried it might be. We also keep our Besta raised up off the floor by several inches, so I'm sure that helps. 
+After some more prototyping and work, I decided on an interesting approach: I designed the PCB so it could be used flat (for all Choc switches) or staggered for mixed switch types by breaking off parts of it so they would "float" lower than the rest of the PCB, secured by the switches themselves.
 
-### I love it when a plan almost doesn't come together
+![The two rectangles at the top corners can break off](/images/express/EXPress-detachable-PCB.jpeg)
 
-All and all, I figured it would be fairly simple. I just needed to saw four holes. Since IKEA uses essentially really strong cardboard for most of the Besta, cutting the holes would be easy with a drywall saw. 
+Unfortunately, I never made a controller using this PCB. I still felt like I was missing a more fundamental design aspect, and I just lost steam. I set aside the project for several months. 
 
-![Pilot holes](/images/hiding-ps5/pilot-holes.jpg)
+## Returning to the project with a new idea
+Secretly, I had another idea for the project all along, but I just didn't have the confidence in my 3D modeling abilities to pull it off. I don't know exactly what made me decide to just go for it recently. I think part of it was finding out about [Plasticity](https://www.plasticity.xyz/), a 3D modeling program that worked mostly how I wanted it to at a price that wasn't outrageous. That gave me the space to experiment and figure out, "Wow, this isn't as hard as I was worried it would be."
 
-That was the plan, at least. When I got to sawing though, it was *hard*. So hard in fact, I was close to giving up. I thought I must have gotten something wrong somehow. How was cutting through cardboard making me drip with sweat and my hands ache?
+I decided to have the body of the board 3D printed and sandwich the top and bottom with acrylic plates. This gave me more control over the body thickness and it let me do some slightly more complex geometry. 
 
-![Sawing](/images/hiding-ps5/sawing.jpg)
+![The concept modeled in Plasticity](/images/express/controller.gif)
 
-Well, just for my own sanity, I decided to try one of the other sides of this hole, and I was able to cut it out with almost no effort at all. Where I had spend at least half an hour sawing away at the first side, the second side was done in less than 10 minutes. So what the heck?
+After much careful tweaking of the design, I had something I liked. I also went much smaller overall with this version, mostly motivated by the limitations of 3D print size. Ultimately, I think it made for a better result, though. I find some of my most creative ideas come from rigid limitations. 
 
-When I was measuring where to put the holes, I didn't really have any super scientific method. It turns out I guessed just slightly wrong for that first hole. Actually, just one side of that first hole. The other three sides went about as easily as I expected, and then I realized that I was cutting through one of the few real pieces of wood used in the Besta by just a bit, but it was enough that I had been cutting a 120mm line through hardwood with a drywall saw. 
+![It worked... almost](/images/express/EXPress-prototype.jpeg)
 
-I felt silly, but mostly, I was glad it was just one side of one hole. For basically guessing where to put the fans, things could have been so much worse. By the time I figured all this out, I was already about 2/3rds of the way done with this line, so I knuckled down and finished the cut, exhaustedly tearing out a messy square of 95% cardboard and 5% wood. 
+My first take on the design was largely successful but with a few key issues. 
+- First, the height of MX switches struck again. I didn't properly account for their full height in my design, so that would have to change. Fortunately, Choc switches were still an option for testing purposes. 
+- I also didn't size the OLED screen cutout quite right, so I shattered a screen while trying to install it. It wasn't that expensive of a part, thankfully. An unfortunate casualty of progress.  
+- The final problem was the wiring. 
 
-![One of the square cutouts](/images/hiding-ps5/cutout.jpg)
+![I will never wire like this again](/images/express/EXPress-wiring.jpeg)
 
-With the holes cut, installing the fans was a breeze (pun fully intended). I just stuck them in place and plugged them into AC Infinity's basic controller. I tested to make sure things were working, cleaned up the cuts a bit (certainly not that well), and set everything up. I used black fan grilles for the test, but I later switched to white when I knew things were baseline working.
+I thought this approach of a small PCB per switch would allow for the most flexibility, and technically is did, but this much manual wiring was *unbearably* tedious. This took hours to finish, even though it wasn't difficult soldering at all. While I liked the idea of the flexibility individual PCBs offered, realistically, I wouldn't be changing the button layout enough to justify it, so I decided to make a large PCB for the face buttons again. 
 
-![Testing things](/images/hiding-ps5/test-fit.jpg)
+I took inspiration from my PCB design for the previous iteration and made PCBs for each section of the design that I would connect together. This meant I could have various parts at different heights without worrying about bending PCBs or anything like that. After a few more tweaks, I gave it another try. 
 
-It worked! It worked really well, actually. The fans were barely audible, the PS5 never gave me any warnings or showed any signs of struggling. I suspect my setup is actually much better for performance than a typical open self. Actively moving the air into and away from the PS5 in an otherwise closed system makes sure its not "stewing" in its own hot air. 
+![New case and new wiring setup](/images/express/working-EXPress.jpeg)
 
-![The final product](/images/hiding-ps5/final-product.jpg)
+Success! Everything was working great. I was super happy with the result. Now I just had to prepare the art. Should be straightforward enough. 
 
+## How I learned to cut a circle
+By far one of the most difficult parts of the whole project was one that didn't even occur to me at the outset: cutting a series of clean circles. 
 
-## The setup two-ish years later
+First, I thought that I would just freehand the circles with an X-acto knife. I knew they wouldn't be perfect, but surely I could get them close enough. 
 
-I still use the exact setup with basically no changes. Everything still works, and my PS5 still runs perfect. I try to remember to clean out the dust every few months, but again, this really hasn't even been the problem I thought it might be. I went over six months without cleaning and things weren't even that bad. 
+![The results of trying to freehand it](/images/express/freehand-result-back.jpeg)
 
-Should you do this yourself? If you want to. It's really not too hard, and I'm very happy with the results. The only noticeable part of this mod from the outside is the fan grilles on either side, but it's one of those things that might seem super noticeable to you as you finish it, but you quickly forget they're there. I've also never had a guest notice them. Sometimes I point them out when talking about this project, and people are almost always surprised - they're just not very noticeable in day-to-day conditions. If you were really concerned about them, you could put the exhaust facing down like the intake, but then you run the risk of recirculating hot air. It might still be okay, but it's not ideal.
+I could not. 
 
-Anyway, I remain a big fan of this setup. I plan to keep using this Besta for the foreseeable future. At some point I may take another look at BDi's options or redo things to be cleaner, but these would be purely "nice-to-haves". I'm still really happy with my hidden PS5. 
+Next, I thought maybe I needed a special tool, so I purchased a cool circle cutter. 
+
+![My biggest disappointment](/images/express/circle-cutter.jpeg)
+
+Conceptually, I love this thing. Practically, I despise it. I did dozens of test cuts and I could never achieve any amount of consistency. Sometimes I nailed a great circle, but most times it would cut too deep and shift the paper or not enough and just score it a little. It also didn't have a sharp enough blade, so it kind of ripped the paper while cutting, which was very noticeable when trying it on the actual printed art. 
+
+Fine, maybe my first approach was right and I just needed a slightly better tool. I got a rotating hobby knife: 
+
+![A hobby knife that spins 360 degrees](/images/express/rotating-hobby-knife.jpeg)
+
+It had many of the same problems as the circle cutter. It wasn't sharp enough and I found it difficult to be consistent. I actually think my freehand results with a standard, sharp X-acto blade were comparable if not even better than the combination of the circle cutter and rotating knife:
+
+![Using special tools looked almost the same](/images/express/using-tools-result-back.jpeg)
+
+I was starting to lose my mind over this. I was so close to the end, but I was being foiled by cutting shapes out of paper like an eight-year-old. Surely there had to be some better way. 
+
+Finally, I decided to try a hole puncher. Conceptually it's similar to the hole punchers eight-year-old me used, but more intense.
+
+![The only somewhat tricky part is lining it up right](/images/express/lining-up-cutter.jpeg)
+
+You line up this sort of massive syringe-like tool with the proper bit attached at the end and hammer the top of it. I can't express how happy I was the first time I lined this thing up, gave it a couple of whacks, pulled it away, and a cleanly cut circle slid right out of the tip of it. *Finally* I had found a solution that would work. As a bonus, I could work out my frustration over my other attempts while I hammered away.  
+
+## The final results
+I ended up calling the project, [the EXPress](https://github.com/Rookwork/EXPress/). I made three of them: one for me and my partner, and one for my friend (not pictured). 
+
+![Two fully complete controllers](/images/express/two-assembled.jpeg)
+
+I'm quite pleased with the results. This is very close to exactly what I pictured when I first set out to design this. Of course, in the time it took me to finish this project, the landscape of buyable and other open-source controllers has grown substantially. If I were starting today, I probably could have just found something close enough to buy.
+
+I don't mind that, though. This project was never about being the first to market or anything like that. It was about making a controller I wanted and it was a way to train my creative and maker muscles. I learned how to use KiCAD and Plasticity. I ordered 3D printed and laser cut parts. I learned a bit about PCB manufacturing when my PCB fabricator complained about my files. 
+
+Holding these controllers in my hands is immensely satisfying, knowing that every part of them came from me. They are the physical result of hours upon hours of thought and work. 
+
+Now, to play some games. 

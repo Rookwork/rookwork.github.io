@@ -1,79 +1,89 @@
 ---
 layout: post
-title:  Hiding the PS5 without losing performance
-description: I like to game, but I don't like the way the PS5 looks. With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
-date:   2021-06-01 15:01:35 -0500
-image:  '/images/hiding-ps5/final-product.jpg'
+title:  How I made a compact keyboard layout
+description: My fingers hurt, but I needed to type. It was time to make a change.
+date:   2022-04-15 15:01:35 -0500
+image:  '/images/compact-keyboard-layout/layout-image.png'
 tags:   [something I made]
 ---
+It is probably unsurprising that I type *a lot*. I don't keep track, but it's easily thousands of words per day. I'd say 500,000 words a year is a pretty fair estimate if maybe even a little conservative. That's more than the [entirety of the Lord of the Rings books](http://lotrproject.com/statistics/books/wordscount), every year! So when my fingers started to hurt while typing, that was a big problem.
 
-I'm a bit of a gamer. Obviously, I spend my time doing a lots of things, but relaxing with a good game is one of my favorite hobbies. I don't have any horse in the race as far as Xbox vs. Playstation goes, but I tend to prefer Playstation simply because it has more exclusive titles I'm interested in. Exclusive titles at all are arbitrary and frankly annoying, but it is what it is. 
+Specifically, most of my pain was concentrated along the outside edges of my hands along my pinky fingers and up to my wrists. This is, as far as I know, somewhat unusual as far as typing strains go, but I immediately had a theory for why this was happening: modifiers. 
 
-When the PS5 was first announced, I hated how it looked. To be fair, I do admire the idea of making a game console an interesting piece of design. Funnily, I think this was Microsoft's intention with the Xbox 360 many years ago, but they have since moved on to big black boxes while Sony dove into the deep end of unique character with the PS5. I think the design of the PS5 could be very appealing to many people, but it's not for me. 
+Since I type primarily in English, I have to make use of Shift quite a bit for all those pesky capital letters. Shift is traditionally positioned on the outer edges of a keyboard and hit with your pinky fingers. What I think started happening for me is, I held Shift so often that I would use it as kind of a pivot to support the rest of my hand, briefly but consistently putting a lot of weight on my pinky fingers. Eventually, those little guys had enough. 
 
-With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
+Fortunately, I was already very familiar with the world of hobbyist and ergonomic keyboards having built my own and working for a company that makes them. Using a split keyboard no doubt helps me not suffer even more strains, but this issue went beyond the basic form of the keyboard I was using. 
 
-## Making the PS5 look better in my living room
+I needed an all new keyboard layout. 
 
-I did explore this option a little bit. What if I could make the console look different? This turned out to be fairly tricky around the console's launch, though. Nowadays, there are some pretty decent third-party panel and sticker options that change the silhouette and colors of the PS5, so if I were doing this project today, this might be more viable, but no such luck at the time. 
+## Research
+My first and core decision was what to do about Shift. I considered keeping a fairly normal layout and just moving Shift to my thumbs, but if I was going to be taking on the challenge of learning a new layout, I wanted to do something that would truly fix the problem. I wanted to fix not just Shift, but everything that wasn't really optimal about my layout. My solution was home row mods.
 
-![The PS5 is big](/images/hiding-ps5/ps5-big.jpg)
+I had heard of home row mods before, but they were still mysterious to me. Surely they couldn't actually be comfortable to use, right? My fears were abated by [this fantastic article from Precondition](https://precondition.github.io/home-row-mods). If you're curious about home row mods, I highly recommend giving it a read. I went into it knowing very little and came out of it feeling not just ready, but excited to try them.
 
-I also thought about biting the bullet and just letting the PS5 be visible on an open shelf as-is, but one fundamental issue with the PS5 for me is it's quite large, even larger than than my pervious PS4 Pro, which I already thought was pretty bulky. The PS5 is actually just about the same size as some console-form-factor PC cases, which can be built to be even more performant than a PS5. Food for thought for a future project, perhaps. Anyway, this meant that if the console was visible at all, it would draw attention, and I decided hiding it was the better plan.
+My next stop was one of the most popular home row mods setups: [Manna Harbour's Miryoku](https://github.com/manna-harbour/miryoku). Looking through this layout filled in the last few gaps I still had, mainly giving me a reference for how many layers I could expect to use and roughly what to put on them. Manna Harbour is kind enough to have made the Miryoku layout in Oryx already, so I could have just cloned that, but I could already tell there were some changes I would need to make to suit my preferences, and I thought building the layout from scratch would help me consider it more carefully, so I got started from a completely blank slate.
 
-## Sacrifice as little performance as possible
+## Development
+The first versions of my layout were not particularly interesting. They were very close to default Miryoku with a few tweaks and omissions. The more interesting developments came as I ran into problems.
 
-So, hiding the PS5 was straightforward enough, but making sure it could still get fresh air and exhaust the hot air was trickier. 
+### My weak pinkies strike again
+After reading Precondition's guide on home row mods, I was aware of the idea that some people preferred to put their mods on the bottom row of keys rather than the home row. This was always sort of my backup plan if I found home row mods too difficult. What I did not expect was home row mods working great for my stronger inner fingers but terribly for outer fingers.
 
-I began googling, "vented tv stand", "media center airflow", "TV stand... with holes?", etc. I found some options (although surprisingly, not as many as I expected), but I was still struggling. [BDi's media centers](https://www.bdiusa.com/products/corridor-8177-modern-tv-stand-media-storage-drawer?finish=natural-walnut) were particularly appealing, until I saw the price. I'm sure their products are very good, and they look great, but roughly $3000 was a tough sell, especially when I lived on a third floor apartment with no elevator at the time, and I would need to cart this massive hard wood piece up the stairs. 
+My solution was ultimately very simple and kind of elegant if I'm allowed to say so. I left my two most-used mods on the home row my strong fingers, and I moved my least used mods down a row. That way, I still had the primary benefits of home row mods while keeping the home row keys that fall under my weaker fingers still usable. I'm sure I'm not the first person to think of staggering the home row mods like this, but I don't see this configuration brought up very often -- I really like it. 
 
-I did find one or two cheaper options in the few hundred dollar range that were kind of similar to BDi's offerings, but they just weren't grabbing me. Their style was either too far off from what I wanted, reviews weren't very good, or the dimensions wouldn't work. 
+### Which modifiers to choose
+The positions of my mods were sorted out, but how to arrange them remained up in the air. I use macOS about 90% of the time, but I do boot into Windows and Linux from time to time for testing or just miscellaneous tasks. The problem with this is macOS uses CMD for common shortcuts in place of CTRL. 
 
-I decided it was time to break out the saw.
+I knew Shift would be my primary modifier, and CMD would have been the natural choice for my secondary modifier, but I really didn't want to have to deal with reorienting myself every time I switched operating systems. I don't spend a ton of time overall outside of macOS, but I do switch frequently for short periods, so this would regularly be a problem. 
 
-## The Build
+I discovered the solution in macOS itself. In System Preferences > Keyboard > Modifier Keys, I changed CTRL to CMD and CMD to CTRL. This means macOS sees CTRL key presses as CMD, and vice versa, so I can make CTRL my secondary modifier key and the most common shortcuts will always work for me no matter what OS I'm on. This does mean that I have to think twice about shortcuts that I'm less familiar with on macOS, but this hasn't been a big problem for me so far.
 
-Unsurprisingly, IKEA is a favorite of mine and my partner's. Their furniture is pretty inexpensive, but has held up mostly quite well for us (except their couches), and it fits our style. We actually already had an IKEA Besta on legs that we were using as our TV stand at the time, so I decided to look no further. 
+### Numbers and symbols
+The basic structure of Miryoku was good, but the arrangement of the numbers and symbols didn't really make sense to me. This isn't a knock on Miryoku, though -- everyone will have different preferences for this.
 
-Of course, the Besta does not have the vents I would need by default. But another benefit of IKEA is their stuff is very easy to hack apart, and if I messed up, it wouldn't be some huge loss. I came across [AC Infinity](https://acinfinity.com/), a company all about ventilation fans for exactly the kind of project I was taking on. I did briefly think about just doing this myself with some computer fans and a microcontroller. After all, that's basically what their products are. At this point though, I wasn't 100% sure that adding fans would work to adequately cool the PS5, so I didn't really want to add even more prototyping and development time. Down the line, I'd like to come back to an even more DIY approach here, but for the moment, I decided to keep things simple and get to a testable solution as quickly as possible. 
+Numbers were a pretty easy choice. I created a layer that mimics a dedicated num pad on the right half. I wasn't sure if I would like this; I was a heavy number row user before. I took to this *very* quickly though, and now I can't go back. 
 
-My plan was pretty simple: one intake fan on the bottom and one exhaust fan on the side. I also decided to mirror this on both sides of my Besta to allow for exhaust for our Nintendo Switch or anything else we might want to hide away in the future. I chose this configuration for a couple of reasons:
-- It made the most sense since hot air naturally rises, and exhausting downward would be fighting that for little reason.
-- It mirrored the PS5's built-in exhaust pattern. The PS5 exhausts at kind of a downward angle to the rear, and since I would have it on its side, all the hot air would be pushed perfectly into the exhaust fan I was adding to the cabinet. 
+Symbols took a little more experimentation, but I like the method I eventually came up with. The symbols on the home row are the ones I use most frequently, the symbols above those correspond to numbers 1-5, and the symbols below the home row correspond to number 6-0. These straightforward assignments make the symbols easy to remember and keeps everything accessible.  
 
-The main downside of this configuration is dust. Intaking from the floor is pretty much the worst option if I wanted to avoid dust buildup, but I decided that wasn't a dealbreaker. The fan grates do a decent job of stopping dust on their own, and I can always use a dust filter as well. In practice, this really hasn't been as bad as I worried it might be. We also keep our Besta raised up off the floor by several inches, so I'm sure that helps. 
+### The gaming issue
+Finally, the part of my layout that I was the most unsure what to do about once I started going down the home row mods path. Most of my typing is for work, but I do like playing games from time to time. The problem here is all this experimentation I was doing wouldn't work at all for games. 
 
-### I love it when a plan almost doesn't come together
+On a raw technical level, dual-function keys don't always work with all games. Some games have issues recognizing them, and there's not a lot that can be done to change this. Even beyond that though, there are deeper reasons why my layout wouldn't work for games. 
 
-All and all, I figured it would be fairly simple. I just needed to saw four holes. Since IKEA uses essentially really strong cardboard for most of the Besta, cutting the holes would be easy with a drywall saw. 
+The more I experimented, the more I realized playing games actually involves subtly different actions than typing. Assuming I have a decent grasp on spelling, typing words is fundamentally pretty predictable. I think what I want to communicate, then I action it. 
 
-![Pilot holes](/images/hiding-ps5/pilot-holes.jpg)
+Gaming flips the script. Not only do I think things then action then, but I also have to react to things. This is the fundamental reason that compact layouts are trickier to game with. There is a material advantage to having as many discrete actions available to trigger instantly as possible. In other words, I can tolerate the brief delays of dual-function keys in normal typing, but it's a disadvantage that can't really be ignored in games.
 
-That was the plan, at least. When I got to sawing though, it was *hard*. So hard in fact, I was close to giving up. I thought I must have gotten something wrong somehow. How was cutting through cardboard making me drip with sweat and my hands ache?
+To solve this, I took inspiration from games: I cheated. :)
 
-![Sawing](/images/hiding-ps5/sawing.jpg)
+#### Optimization with a purpose
+I use "cheat" jokingly. Creating this compact layout required a lot of thought and the new developments were exciting. As I got more comfortable with it, it felt like it was the solution for everything. "When you've got a shiny new hammer, everything seems like a nail."
 
-Well, just for my own sanity, I decided to try one of the other sides of this hole, and I was able to cut it out with almost no effort at all. Where I had spend at least half an hour sawing away at the first side, the second side was done in less than 10 minutes. So what the heck?
+I pretty quickly decided to break my Miryoku-inspired 36-key template. I had plenty of keys available with the larger Moonlander board, after all. 36 keys was just a little bit too limiting, so I added a couple of keys to the outer column. I may even add the number row back. It's still compact, but not as compact as possible. 
 
-When I was measuring where to put the holes, I didn't really have any super scientific method. It turns out I guessed just slightly wrong for that first hole. Actually, just one side of that first hole. The other three sides went about as easily as I expected, and then I realized that I was cutting through one of the few real pieces of wood used in the Besta by just a bit, but it was enough that I had been cutting a 120mm line through hardwood with a drywall saw. 
+Working on my gaming layers was a fitting final act to designing this layout. It snapped me out of a fixation on having an exactly 36-key layout, and helped me realize home row mods, a compact layout, dual-function keys... these are just different means to and end: typing comfortably. 
 
-I felt silly, but mostly, I was glad it was just one side of one hole. For basically guessing where to put the fans, things could have been so much worse. By the time I figured all this out, I was already about 2/3rds of the way done with this line, so I knuckled down and finished the cut, exhaustedly tearing out a messy square of 95% cardboard and 5% wood. 
+## The "final" layout
+I won't pretend I mastered this layout right away. It took about a week of typing very slowly in my downtime to start to get comfortable, and I also had to spend extra time in the games I played regularly getting used to the new layout. Then, when I was feeling like I had some grasp on this, I took the plunge and switched to it full-time. To my surprise, it worked.
 
-![One of the square cutouts](/images/hiding-ps5/cutout.jpg)
+I put "final" in quotes here because I don't think there's ever going to be a real final layout for me. This iteration has been working for me for several months with minimal tweaks though, so I think it's safe to call it a success even if I ultimately make more changes down the line.
 
-With the holes cut, installing the fans was a breeze (pun fully intended). I just stuck them in place and plugged them into AC Infinity's basic controller. I tested to make sure things were working, cleaned up the cuts a bit (certainly not that well), and set everything up. I used black fan grilles for the test, but I later switched to white when I knew things were baseline working.
+In short, this layout is designed to minimize reaching and relies on my weakest fingers as little as possible. I was worried it would be difficult to get used to, but after just a couple of weeks, I felt nearly perfectly comfortable with it. I do occasionally have some difficulty with more traditional keyboard layouts with modifiers on the outside now, but I can adapt if I need to. I don't think the years of ingrained muscle memory of traditional layouts can ever truly be overwritten. 
 
-![Testing things](/images/hiding-ps5/test-fit.jpg)
+I also created a layout tour with ZSA's configurator, Oryx. I recommend stepping through it if you're curious about the layout. The tour lets me interactively comment on specific keys so you can see my thoughts in context. 
 
-It worked! It worked really well, actually. The fans were barely audible, the PS5 never gave me any warnings or showed any signs of struggling. I suspect my setup is actually much better for performance than a typical open self. Actively moving the air into and away from the PS5 in an otherwise closed system makes sure its not "stewing" in its own hot air. 
+<div style="padding-top: 60%; position: relative;"> <iframe src="https://configure.zsa.io/embed/moonlander/layouts/xDpMW/latest/0" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%"></iframe> </div>
 
-![The final product](/images/hiding-ps5/final-product.jpg)
+I've been quite happy with the result! I highly encourage you to give a smaller, layer-heavy layout a try. I won't claim this is the future for everyone, but it's not as difficult to get used to as you might think, and it's really helped me. 
 
+## Future ideas
+Even though I'm broadly happy with my layout in its current state, I sometimes idly think about ways I might be able to make it better. Here are a few ideas that I'm considering and that you can consider as well. 
 
-## The setup two-ish years later
+### Callum mods
+An alternative to home row mods, [Callum Oakley's Callum mods](https://github.com/qmk/qmk_firmware/blob/master/users/callum/readme.md) intrigue me. The idea is to use oneshot keys to switch to layers for a single keypress, and then switch back. Home row mods have worked fairly well for me, but  eliminating the need to hold keys at all is something I want to try out. 
 
-I still use the exact setup with basically no changes. Everything still works, and my PS5 still runs perfect. I try to remember to clean out the dust every few months, but again, this really hasn't even been the problem I thought it might be. I went over six months without cleaning and things weren't even that bad. 
+### Navigation keys on the number row
+I have a nav layer with various shortcuts to change windows and tabs, but I almost never use them. There's nothing inherently wrong with this, but at the same time, I would like to get more use out of these shortcuts. Now that I have an unused number row, I'm thinking of assigning these shortcuts there instead. They would be about as accessible as possible, so I could better evaluate whether I don't use them because I forget about them or because I really don't have a use for them in my workflow.
 
-Should you do this yourself? If you want to. It's really not too hard, and I'm very happy with the results. The only noticeable part of this mod from the outside is the fan grilles on either side, but it's one of those things that might seem super noticeable to you as you finish it, but you quickly forget they're there. I've also never had a guest notice them. Sometimes I point them out when talking about this project, and people are almost always surprised - they're just not very noticeable in day-to-day conditions. If you were really concerned about them, you could put the exhaust facing down like the intake, but then you run the risk of recirculating hot air. It might still be okay, but it's not ideal.
-
-Anyway, I remain a big fan of this setup. I plan to keep using this Besta for the foreseeable future. At some point I may take another look at BDi's options or redo things to be cleaner, but these would be purely "nice-to-haves". I'm still really happy with my hidden PS5. 
+### Tweaks to the thumb clusters
+I modeled my three-key thumb clusters off of Miryoku, and they work just fine, but I'm tempted to try to make do with two-key thumb clusters instead. The benefits of this change would be pretty minimal admittedly, but relying on just two keys instead would make my layout a little more flexible. 
