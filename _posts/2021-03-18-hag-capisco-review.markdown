@@ -3,7 +3,7 @@ layout: post
 title:  HAG Capisco Review
 description: My thoughts on an unconventional office chair.
 date:   2021-03-18 12:01:35 -0500
-image:  '/images/hag-capisco-review/Capisco_Chair_Review.jpg'
+image:  '/images/hag-capisco-review/hag-chair.jpg'
 tags:   [something I use]
 ---
 
@@ -13,6 +13,8 @@ Maybe that's not entirely fair; I do like the HAG Capisco a lot. But would I rec
 
 ## What is the HAG Capisco?
 The HAG Capisco is a chair, but it works a bit differently than other chairs. It's not meant to be something you sink into for hours on end. It's meant to prop you up and help you move throughout the day.
+
+![My cat was impressed](/images/hag-capisco-review/Capisco_Chair_Review.jpg "My cat was impressed")
 
 I spend most of my time sitting at my Capisco like a normal chair, but that's the boring part. About 20% of the time I use it, I'm doing something weird.
 
