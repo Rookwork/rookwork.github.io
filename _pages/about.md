@@ -2,38 +2,24 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-1.jpg'
+image: '/images/desk.jpeg'
 ---
 
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
+Hi, I'm Robin. You might also know me as John. I used to work in marketing; now I focus on technical copywriting.
 
-***
+I spend a lot of time thinking about where form and function meet: How can we make things that work well and are also beautiful? 
 
-![Workflow]({{site.baseurl}}/images/09-1.jpg)
-*Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on Unsplash*
+I'm not taking on new projects at the moment, but please feel free to reach out all the same. Happy to stay in touch: robin (at) rookwork (dot) com
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+## Work history
+I started out going to college for engineering but ended up majoring in philosophy and east asian studies. Practically, that meant I spent a lot of time thinking about how to think and learning to speak Chinese. I even lived in China for a little while. I also made a mobility cart for a cute goat. 
 
-***
+![An image of me posing with a paraplegic goat and the mobility cart I made for him](/images/goat.jpg)
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09-2.jpg">
-    <img src="/images/09-3.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+My first few jobs were in book publishing. I worked on both the publisher side in marketing and as a bookseller. Eventually, I realized I was my own worst enemy. The more books I got bookstores to buy as a publisher, the more heavy boxes I had to carry at the store. 
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+I ended up in Portland working as a coffee shop consultant and volunteering as the marketing manager of an anime convention, so I was busy. This is where I started to really get curious about marketing. I dove into lots of marketing and psychology books and pushed my writing to be even more effective in fewer words.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+![An image of me with the book "What I know about Running Coffe Shops"](/images/coffee-shops.jpg)
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
-
-***
-
-<p><iframe src="https://player.vimeo.com/video/107654760" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
+Then, I got an unexpected opportunity: to work at an ergonomic keyboard company. Ergonomics and keyboards were already things I was passionate about, so it seemed like a great fit, and that's my primary line of work to this day. You can see a lot of my work here: [blog.zsa.io](https://blog.zsa.io/). 
