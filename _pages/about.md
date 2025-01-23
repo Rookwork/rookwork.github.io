@@ -23,3 +23,5 @@ I ended up in Portland working as a coffee shop consultant and volunteering as t
 ![An image of me with the book "What I know about Running Coffe Shops"](/images/coffee-shops.jpg)
 
 Then, I got an unexpected opportunity: to work at an ergonomic keyboard company. Ergonomics and keyboards were already things I was passionate about, so it seemed like a great fit, and that's my primary line of work to this day. You can see a lot of my work here: [blog.zsa.io](https://blog.zsa.io/). 
+
+![An image of the ZSA Moonlander with custom keycaps](/images/moonlander.jpeg)
