@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Designing the EXPress, an all-button arcade controller
-description: I've always liked the concept fighting games, but I struggle with the controls, so I decided to design my very down custom controller.
+description: I've always liked the concept fighting games, but I struggle with the controls, so I decided to design my very own custom controller.
 date:   2024-04-22 15:01:35 -0500
 image:  '/images/express/EXPress.jpeg'
 tags:   [something I made]

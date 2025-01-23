@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Trying (and failing) to make a Kallax PC case
-description: The trials and tribulations of taking on a more complex project than a bargained for.
+description: The trials and tribulations of taking on a more complex project than I bargained for.
 date:   2024-12-04 15:01:35 -0500
 image:  '/images/kallax-pc-case/initial-case-design.png'
 tags:   [something I made]
