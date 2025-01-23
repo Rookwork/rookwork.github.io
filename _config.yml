@@ -4,7 +4,7 @@ title: Rookwork
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Robin's personal site to share projects and ideas. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rookwork.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
@@ -13,7 +13,9 @@ author:
   bio: I'm a writer and tinkerer. I like try to explain difficult things clearly.  
   avatar: '/images/Robin/Robin-Head-zoomed.png'
 
-#social:
+social:
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/Rookwork"}
+- {icon: "ion-logo-linkedin", label: Github, link: "https://www.linkedin.com/in/john-robin-leinonen/"}
 #- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
 #- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
