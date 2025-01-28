@@ -59,8 +59,7 @@
   }
 }
 
-/*
-.article-tags__box {
+/.article-tags__box {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -77,7 +76,7 @@
   border: 2px solid var(--border-color);
   border-radius: 30px;
   color: var(--text-alt-color);
-*/
+
   &:last-child {
     margin-right: 0;
   }
