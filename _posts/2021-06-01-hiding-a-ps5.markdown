@@ -4,7 +4,7 @@ title:  Hiding the PS5 without losing performance
 description: I like to game, but I don't like the way the PS5 looks. With the carefully tuned balance between performance and heat of modern consoles, this posed an interesting problem. How could I hide my PS5 while making sure it didn't choke to death?
 date:   2021-06-01 15:01:35 -0500
 image:  '/images/hiding-ps5/final-product.jpg'
-tags:   [something-I-made]
+tags:   
 ---
 
 I'm a bit of a gamer. Obviously, I spend my time doing a lots of things, but relaxing with a good game is one of my favorite hobbies. I don't have any horse in the race as far as Xbox vs. Playstation goes, but I tend to prefer Playstation simply because it has more exclusive titles I'm interested in. Exclusive titles at all are arbitrary and frankly annoying, but it is what it is. 

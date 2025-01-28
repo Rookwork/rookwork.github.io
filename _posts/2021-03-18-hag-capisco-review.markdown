@@ -4,7 +4,7 @@ title:  HAG Capisco Review
 description: My thoughts on an unconventional office chair.
 date:   2021-03-18 12:01:35 -0500
 image:  '/images/hag-capisco-review/hag-chair.jpg'
-tags:   [something-I-use]
+tags:   
 ---
 
 I spent over $800 on this funky looking chair and I'm justifying it by writing a review!

@@ -4,7 +4,7 @@ title:  Trying (and failing) to make a Kallax PC case
 description: The trials and tribulations of taking on a more complex project than I bargained for.
 date:   2024-12-04 15:01:35 -0500
 image:  '/images/kallax-pc-case/initial-case-design.png'
-tags:   [something-I-made]
+tags:   
 ---
 
 I have been on quite the computer case journey. When I was younger, I wanted something intimidating. Bigger was better. Then as I got older and started moving around more, smaller became the goal. 

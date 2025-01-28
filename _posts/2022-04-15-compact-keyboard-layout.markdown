@@ -4,7 +4,7 @@ title:  How I made a compact keyboard layout
 description: My fingers hurt, but I needed to type. It was time to make a change.
 date:   2022-04-15 15:01:35 -0500
 image:  '/images/keyboard-layout/layout-image.png'
-tags:   [something-I-made]
+tags:   
 ---
 It is probably unsurprising that I type *a lot*. I don't keep track, but it's easily thousands of words per day. I'd say 500,000 words a year is a pretty fair estimate if maybe even a little conservative. That's more than the [entirety of the Lord of the Rings books](http://lotrproject.com/statistics/books/wordscount), every year! So when my fingers started to hurt while typing, that was a big problem.
 
