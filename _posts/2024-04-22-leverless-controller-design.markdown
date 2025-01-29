@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Designing the EXPress, an all-button arcade controller
-description: I've always liked the concept fighting games, but I struggle with the controls, so I decided to design my very own custom controller.
+description: I've always liked the concept of fighting games, but I struggle with the controls, so I decided to design my very own custom controller.
 date:   2024-04-22 15:01:35 -0500
 image:  '/images/express/EXPress.jpeg'
 tags:   
 ---
-I've always liked the concept fighting games. They are an intense 1v1 competition between two people that tests both mechanical skill and decision making. It's like if there was a rule in Chess that you could take another turn before your opponent if you saw them making a sub-optimal move. The gap in skill between a beginner and an expert is extremely wide and extremely clear to see. 
+I've always liked the concept of fighting games. They are an intense 1v1 competition between two people that tests both mechanical skill and decision making. It's like if there was a rule in Chess that you could take another turn before your opponent if you saw them making a sub-optimal move. The gap in skill between a beginner and an expert is extremely wide and extremely clear to see. 
 
 Yet fighting games also have a passionate community of learners. There is a real sense of honor and camaraderie among fighting game players. It is frowned upon to beat someone once and not offer to play them again. The expectation is to let people try to learn and compete on the most even playing field possible. The issue I've always had with fighting games is inputs. 
 
