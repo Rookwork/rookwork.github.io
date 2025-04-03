@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  10 Years After the Worst Month of My Life
-description: An attempt at reflection
+title:  The Worst Month of My Life
+description: 10 years ago, I went through the worst month of my life. For 10 years, I've wanted to write something profound about it. In 10 years, I haven't figured out how. So, this is the next best thing.y
 date:   2025-03-31 12:01:35 -0500
-image:  ''
+image:  '/images/highway.jpg'
 tags:   
 ---
 
