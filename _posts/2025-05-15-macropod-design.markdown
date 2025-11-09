@@ -3,7 +3,7 @@ layout: post
 title:  Attempting to design the Macropod, a tool for artists
 description: They don't call miniturization hard for nothing. 
 date:   2025-05-15 15:01:35 -0500
-image:  '/images/macropod-cover.png'
+image:  '/images/macropod/macropod-cover.png'
 tags:   
 ---
 
@@ -18,13 +18,13 @@ A while back, I read about artists using Switch Joycons as sort-of macropads to 
 
 The first stage of my prototyping was all about shape. I did a lot of thinking here. What would be comfortable to hold? How big should it be? After some rough sketches, I came up with this non-functional design that I printed just to test the feel of. 
 
-[A digital art palette](/images/macropod/prototype-1.jpeg)
+![A digital art palette](/images/macropod/prototype-1.jpeg)
 
 You might be able to tell I got inspired by artist palettes. That's what I was calling it at this stage: the Palette. My idea was that you would have some keys you trigger with your fingers for fast actions, and some keys that you could trigger with your thumb or by tapping them with back of your pen tool, again much like a palette. I also knew I wanted a dial of some kind since adjusting brush size, opacity, and zoom are all crucial when drawing digitally. 
 
 After feeling this out a little, I was pretty sure it had to be smaller. I printed another non-functional shell, but this time, I made it so I could install real components in it. 
 
-[A smaller palette-inspired shell](/images/macropod/prototype-2.jpeg)
+![A smaller palette-inspired shell](/images/macropod/prototype-2.jpeg)
 
 This was definitely better. It made more sense to hold, things were more reachable, and it would allow for a sizable battery. It was also at this stage that I sadly realized I had to abandon the palette inspiration. Threading your thumb through the hole worked, but I couldn't stop thinking about trying to accommodate all kinds of hand shapes and sizes. Making this a rigid opening just seemed too restrictive. 
 
@@ -34,7 +34,7 @@ After a little more thinking, I decided I was going to try to make something rou
 
 I also knew I wanted to try learning a bit more about ZMK, a wireless-forward keyboard firmware alternative to QMK. I knew essentially nothing about ZMK, so I decided to do something I (believe it or not based on my other projects) never did before: I breadboarded. 
 
-[Breadboarding a prototype](/images/macropod/breadboard.jpeg)
+![Breadboarding a prototype](/images/macropod/breadboard.jpeg)
 
 This is how the project existed for a while as I clumsily started to figure out ZMK. I believe I set some kind of record for thinking, "It's just X, how hard could it be?" and then being immediately humbled. 
 
@@ -42,7 +42,7 @@ One mild criticism of ZMK I have is it feels like ZMK *wants* to be more user/no
 
 Once I finally had the code working with the breadboard prototype, it was time to get PCBs printed. One major problem: goods from China were now being taxed at ridiculously high rates for inane reasons I won't get into (but I'm sure you're aware of). "No problem," I thought, "I'm sure I can get PCBs printed in the US."
 
-[The PCBs I waited weeks for](/images/macropod/pcbs.jpeg)
+![The PCBs I waited weeks for](/images/macropod/pcbs.jpeg)
 
 Well, I could, for more than twice the cost and more than four times the wait. I don't necessarily blame the service I used — maybe they were super busy with orders — but, from this anecdotal experience, printing PCBs in the US it not it. Later, when I was trying a variation of the design, I ended up paying for Chinese-printed PCBs because the math worked out in their favor even *after* the tax. 
 
@@ -50,15 +50,15 @@ But, PCBs finally in hand, I got to work on the real prototype. Somewhere around
 
 This is where I was humbled yet again. I think I've gotten halfway-decent at soldering, but trying to connect all these little wires in a few millimeters of space was challenging, to say the least. 
 
-[A mess of tiny wires](/images/macropod/macropod-top.JPG)
+![A mess of tiny wires](/images/macropod/macropod-top.JPG)
 
 I persisted and eventually got there, though. I also added a screen on the bottom. It's just showing ZMK's default screen graphics, but if I do dive back into the project later, I want to make something custom. 
 
-[An E-ink screen on the bottom](/images/macropod/macropod-bottom.jpeg)
+![An E-ink screen on the bottom](/images/macropod/macropod-bottom.jpeg)
 
 With everything wired, it was time for a moment of truth: could it connect to something wirelessly and send all its inputs?
 
-[Testing out the Macropod wirelessly](/images/macropod/wireless-test.gif)
+![Testing out the Macropod wirelessly](/images/macropod/wireless-test.gif)
 
 It could! For the most part. This began a long battle of troubleshooting to figure out why a lot of the inputs would work most of the time, but not always. Eventually, I figured out it was the 5-way switches. I underestimated how tricky they would be to solder by hand and get a good connection at each point. After much more soldering and some pleading, I got everything working consistently.  
 
@@ -66,7 +66,7 @@ It could! For the most part. This began a long battle of troubleshooting to figu
 
 The final step was some kind of case and button caps. It's nothing fancy, but it all came together. 
 
-[The final product](/images/macropod/macropod-final.jpeg)
+![The final product](/images/macropod/macropod-final.jpeg)
 
 So, when does the Macropod hit shelves?! Not anytime soon, at least like this. I got to this stage, sat back and really evaluated, "Is this better than using a Joycon?"
 
