@@ -10,7 +10,7 @@ url: "http://rookwork.com" # the base hostname & protocol for your site, e.g. ht
 # Author Settings
 author:
   name: Robin Leinonen
-  bio: I'm a writer and tinkerer. I like try to explain difficult things clearly.  
+  bio: I'm a writer and tinkerer. I like to try to explain difficult things.  
   avatar: '/images/Robin/Robin-Head-zoomed.png'
 
 social:
