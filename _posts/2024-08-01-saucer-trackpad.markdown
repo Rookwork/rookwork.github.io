@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Designing the Saucer, a trackpad for the Voyager
-description: My thoughts on an unconventional office chair.
+description: Making a mouse that my cats can't step on. 
 date:   2024-08-01 12:01:35 -0500
 image:  '/images/saucer/saucer.jpeg'
 tags:   
